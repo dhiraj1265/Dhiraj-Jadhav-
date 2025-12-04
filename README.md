@@ -6,4 +6,4 @@
 </h1>            
                                                    
 <!--<h1 align="center">Hi 👋, I'm Dhiraj Jadhav</h1>-->   
-<img align="middle" alt="coding" width="350" src="https://github.com/tusharpatil2912/tusharpatil2912/blob/main/giphy.gif">
+<img align="right" alt="typing" width="350" src="https://github.com/tusharpatil2912/tusharpatil2912/blob/main/giphy.gif">
